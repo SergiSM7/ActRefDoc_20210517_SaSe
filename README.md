@@ -24,4 +24,16 @@ Se li assigna una variable local a una expressió, per exemple, es molt util si 
 ![image](https://user-images.githubusercontent.com/65180552/118522403-4cd6d300-b73c-11eb-8bf1-c6c0fda2f30d.png)
 
 5. Extreure una constant
+Converteix una cadena de caràcters o un valor numèric en una constant, i qualsevol referència serà substituïda per la constant
+![image](https://user-images.githubusercontent.com/65180552/118523438-6c223000-b73d-11eb-93ed-f7a1a93866b3.png)
+![image](https://user-images.githubusercontent.com/65180552/118523488-77755b80-b73d-11eb-9d81-f979ace953c5.png)
+![image](https://user-images.githubusercontent.com/65180552/118523552-83f9b400-b73d-11eb-831f-a546d4e6cbe6.png)
+![image](https://user-images.githubusercontent.com/65180552/118523573-89ef9500-b73d-11eb-99da-f08e487ba848.png)
+
+6. Extreure el mètode
+Converteix un tros de codi en un mètode
+![image](https://user-images.githubusercontent.com/65180552/118524244-3cbff300-b73e-11eb-9760-8f0c43fb342f.png)
+![image](https://user-images.githubusercontent.com/65180552/118524387-624cfc80-b73e-11eb-867f-5128101a248e.png)
+![image](https://user-images.githubusercontent.com/65180552/118524514-86a8d900-b73e-11eb-96d3-ac2771ad98f5.png)
+![image](https://user-images.githubusercontent.com/65180552/118524542-8dcfe700-b73e-11eb-9800-bc2043bf3c63.png)
 
