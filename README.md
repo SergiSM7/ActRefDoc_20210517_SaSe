@@ -12,7 +12,16 @@ Serveix per moure tot un metode a un un altre document
 ![image](https://user-images.githubusercontent.com/65180552/118520718-93c3c900-b73a-11eb-9663-6a9e3dde544a.png)
 ![image](https://user-images.githubusercontent.com/65180552/118520744-9b836d80-b73a-11eb-878f-d4b284f310ce.png)
 Captura nou .java :
+![image](https://user-images.githubusercontent.com/65180552/118520956-d08fc000-b73a-11eb-9b38-8adff75efbe7.png)
 
 
 4. Extreure una variable local
+Se li assigna una variable local a una expressió, per exemple, es molt util si s'ha de fer servir una expressió mes d'una vegada
+![image](https://user-images.githubusercontent.com/65180552/118521619-7ba07980-b73b-11eb-83ad-4f7abc0f1fea.png)
+![image](https://user-images.githubusercontent.com/65180552/118521681-8ce98600-b73b-11eb-83d5-16bf55354a48.png)
+![image](https://user-images.githubusercontent.com/65180552/118522285-2add5080-b73c-11eb-857c-34a93f149c90.png)
+![image](https://user-images.githubusercontent.com/65180552/118522374-43e60180-b73c-11eb-9db0-9999355677ca.png)
+![image](https://user-images.githubusercontent.com/65180552/118522403-4cd6d300-b73c-11eb-8bf1-c6c0fda2f30d.png)
+
+5. Extreure una constant
 
